@@ -3,12 +3,10 @@
 
 
 ## Tools I work with
-[![HTML5](./svgs/html5.svg)](./svgs/html5.svg)
 
 
 
 ## How to contact me
-
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](link-to-your-discord)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
