@@ -3,12 +3,7 @@
 
 
 ## Tools I work with
-<img src="./svgs/html5.svg">
-<img src="./svgs/css3.svg">
-<img src="./svgs/sass.svg">
-<img src="./svgs/javascript.svg">
-<img src="./svgs/react.svg">
-
+[![HTML5](./svgs/html5.svg)](./svgs/html5.svg)
 
 
 
