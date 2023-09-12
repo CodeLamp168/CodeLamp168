@@ -2,7 +2,7 @@
 # Hello there, I'm Caleb D. Sim! :wave:
 
 
-## Tools I work with
+## Tools I worh with:
 <img height="32" width="32" src="https://cdn.simpleicons.org/html5/#E34F26" alt="CSS3"> HTML5
   
 <img height="32" width="32" src="https://cdn.simpleicons.org/css3/#1572B6" alt="CSS3"> CSS3
