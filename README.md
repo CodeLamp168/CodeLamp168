@@ -24,7 +24,7 @@
  🚀 &emsp; A self learning entry level Junior Front End Developer <br/><br/>
  📚 &emsp; One Year of Coding and Learning <br/><br/>
  📶 &emsp; Kick started my journey on [FrontEnd Mentor](https://www.frontendmentor.io/profile/CodeLamp168) <br/><br/>
- 💬 &emsp; Contact me through Gmail: dylansim168@gmail.com
+ 
         
 </p>
 
