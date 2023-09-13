@@ -20,16 +20,18 @@
 </br>
 
 <p>
-        
+
  🚀 &emsp; A self learning entry level Junior Front End Developer <br/><br/>
  📚 &emsp; One Year of Coding and Learning <br/><br/>
  📶 &emsp; Kick started my journey on [FrontEnd Mentor](https://www.frontendmentor.io/profile/CodeLamp168) <br/><br/>
- 
-        
 </p>
 
 </br>
 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+
+  </br>
 
 
 ## Coding Kit 
@@ -51,7 +53,8 @@
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 
-  
+<br/>
+
 
 
 
