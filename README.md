@@ -11,10 +11,6 @@
  </a>
  <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
- </a>
-   <a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
- </a>
 </p>
 
 </br>
