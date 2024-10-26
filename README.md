@@ -1,7 +1,7 @@
 
 <h1 align="center">
-        <samp>Hey There!, I'm
-                <b> <a target="_blank" href="https://codelamp168.github.io/Caleb-Dylan-Sim-Portfolio/">Caleb D. Sim</a> </b>
+        <samp>
+                <b> <a target="_blank" href="https://codelamp168.github.io/Caleb-Dylan-Sim-Portfolio/">Personal Portfolio</a> </b>
         </samp>
 </h1>
 
