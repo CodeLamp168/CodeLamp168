@@ -1,20 +1,9 @@
 
-<h1 align="center">🚀&emsp;Junior Front End Developer</h1>
 
 
-<p align="center">
- <a href="https://www.linkedin.com/in/calebsimdev/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
- </a>
- <a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
-</p>
+<h1 align="center"> Junior Front End Developer  </br>  <a target="_blank" href="https://personal-work-portfolio.vercel.app/">Personal Portfolio</a>  </h1>
 
-</br>
 
-<p>
-
-#  <b> <a target="_blank" href="https://personal-work-portfolio.vercel.app/">Personal Portfolio</a> </b>
 
 ## Personal Dev Tools
 
